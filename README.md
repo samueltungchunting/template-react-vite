@@ -1,15 +1,18 @@
-# React + Vite Starter
+# ⚡ React + Vite Starter
 
-A lightweight SPA starter with React 18 and Vite.
+Lightweight SPA setup with Vite. Super fast dev server.
 
-- ⚡ **Vite** - Lightning fast dev server
-- ⚛️ **React 18** - UI library
-- 🎨 **Tailwind CSS v4** - Utility-first CSS
-- 📝 **TypeScript** - Type safety
+## Stack
+- Vite 6
+- React 18
+- Tailwind CSS v4
+- TypeScript
+- Lucide Icons
 
-## Getting Started
-
+## Quick Start
 ```bash
 pnpm install
 pnpm dev
 ```
+
+Vite go brrrr 🏎️
